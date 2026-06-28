@@ -16,4 +16,13 @@
 * Practiced multiple variable assignment
 * Learned dynamic typing
 * Used the `type()` function
-* Solved beginner practice programs
+* Solved beginner practice programs 
+
+## Day 3
+
+* Learned Python Data Types
+* Practiced int, float, str, and bool
+* Used the `type()` function
+* Compared string concatenation with integer addition
+* Completed real-life practice programs
+
