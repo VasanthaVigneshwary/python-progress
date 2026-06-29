@@ -52,4 +52,15 @@ print("\nShopping Details")
 print(product)
 print(price)
 print(quantity)
-print(available)
+print(available) 
+# Print Data Types
+
+city = "Puducherry"
+temperature = 32.5
+population = 250000
+is_capital = False
+
+print(type(city))
+print(type(temperature))
+print(type(population))
+print(type(is_capital))
